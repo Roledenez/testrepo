@@ -1,1 +1,1 @@
-fileB.txt
+fileB.txt hello world
